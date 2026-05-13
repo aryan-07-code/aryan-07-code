@@ -22,7 +22,7 @@ AI/ML Enthusiastic
 
 <!-- GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdyZXRkdm5jcHdvZHY4Y3J5bGRyajVnbGRhNTJjajJoZHQyODdrYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
        alt="Coder GIF" 
        style="border: 3px solid #333; border-radius: 20px; max-width: 100%; height: auto;" />
 </div>
