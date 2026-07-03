@@ -30,7 +30,7 @@ AI/ML Enthusiastic
 ---
 
 ## 👨‍💻 About Me  
-I am a currently 1st-year Computer Science & Design Engineering student at RGIPT, originally from Kolkata, West Bengal. .
+I am a currently 2nd-year Computer Science & Design Engineering student at RGIPT, originally from Kolkata, West Bengal. .
 
 ---
 
